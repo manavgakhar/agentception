@@ -39,4 +39,13 @@ streamlit run app.py
 - Automated code generation for agents
 - Temporal workflow orchestration
 - Streamlit-based UI generation
-- Built-in templates for common agent patterns 
+- Built-in templates for common agent patterns
+
+## Demo
+
+<img width="686" alt="Screenshot 2025-05-02 at 2 06 07 PM" src="https://github.com/user-attachments/assets/f43aab03-5e3b-4e2f-bd76-4c64f4080401" />
+
+<img width="620" alt="Screenshot 2025-05-02 at 2 06 18 PM" src="https://github.com/user-attachments/assets/48d6aaff-2a15-4947-b6ce-ccc0c05a191c" />
+
+<img width="781" alt="Screenshot 2025-05-02 at 2 06 32 PM" src="https://github.com/user-attachments/assets/45060245-bf77-4e37-893b-c3fd8bd044c4" />
+
