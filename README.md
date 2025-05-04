@@ -1,7 +1,6 @@
 # Agentic App Generator
 
-This application uses agents to generate other agentic applications based on user requirements. It combines Agno for agent framework, Temporal for workflow orchestration, Streamlit for UI, and Google's Gemini API for intelligence.
-
+This application uses agents to generate other agentic applications based on user requirements. It combines Agno for agent framework, Temporal for workflow orchestration, Streamlit for UI, and Google's Gemini API for LLMs. It also has a Postgres Vector DB for RAG, augmenting code generation for apps.
 ## Setup
 
 1. Create a virtual environment:
